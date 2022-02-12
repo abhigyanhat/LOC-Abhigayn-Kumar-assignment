@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+      printf("Name: Abhigyan kumar");
+      printf("\nReg no: 023");
+      printf("\nBranch: Metallurgy and Material Engineering");
+      printf("\nHobbies: Playing cirket and expolre tech");
+}
+
+
+
+output:
+Name: Abhigyan kumar
+Reg no: 023
+Branch: Metallurgy and Material Engineering
+Hobbies: Playing cirket and expolre tech
