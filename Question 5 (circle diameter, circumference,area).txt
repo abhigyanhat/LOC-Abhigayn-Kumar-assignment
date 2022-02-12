@@ -8,6 +8,6 @@ int main() {
         printf("Diameter of circle is %d", diam);
         circm=2*(22/7)*r;
         printf("\ncircumference of circle is %d", circm);
-        area=r^2*(22/7);
+        area=r**2*(22/7);
         printf("\nArea of circle is %d", area);
 }
