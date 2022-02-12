@@ -12,6 +12,7 @@ int main(){
       printf("\nHobbies:");
       scanf("%s", &c);
       
+      printf("\n");
       printf("\nName: %s", a);
       printf("\nReg no: %d", d);
       printf("\nBranch: %s", b);
